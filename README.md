@@ -27,3 +27,29 @@ The game is added to an autorun disk: [Donkey Kong jr.dsk](https://github.com/Pa
 
 ## How to play
 
+The game can be played using the SDLTRS TRS-80 Emulator.
+
+The SDLTRS emulator can be downloaded on the [SDLTRS Website](https://sdltrs.sourceforge.net/) on SourceForge. 
+
+The SDLTRS emulator needs the model specific romfiles which can be downloaded here: [trs_roms.zip](http://www.filfre.net/misc/trs_roms.zip). Place the model specific romfiles in the installation folder of SDLTRS.
+
+Place the [Donkey Kong jr.dsk](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Donkey%20Kong%20jr.dsk) also in the installation folder of SDLTRS.
+
+After installing SDLTRS, start the sdltrs.exe executable to start the emulator.
+
+Press <F7> to open the SDLTRS menu.
+
+Select the option 'Floppy Disk Management (ALT-D)' and press <Enter>.
+
+Select the option 'Disk 0:Empty' and press <Enter>.
+
+Select the 'Donkey Kong jr.dsk' and press <Enter>.
+
+Press <Esc> several times to return to the boot screen.
+
+Press <F10> to restart the emulator and the game will be started from the auto start disk.
+
+
+
+
+
