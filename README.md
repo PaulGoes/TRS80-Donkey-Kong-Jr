@@ -3,8 +3,6 @@ In 1983, when I was 13 years old, I created a TRS-80 program that recreated the 
 
 But hey, in a time that most of my friends didn't even know what a computer was, I was very proud of what I accomplished.
 
-![TRS80DKJR Intro Screen](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/TRS80DKJR-intro-screen.jpg) 
-
 ![TRS80DKJR Play Screen](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/TRS80DKJR-play-screen.jpg)
 
 To preserve this effort from my youth, I have uploaded the game and the source code in BASIC here.
