@@ -19,7 +19,11 @@ In the photo below you see the original graphics design of the game. As you can 
 
 ![TRS80DKJR Graphic Design](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/TRS80DKJR-graphics-design-original.jpg)
 
-## Game Files
+## Provided game files
 
 The source of the game is written in BASIC and the listing is in [DKJR.bas](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/DKJR.bas).
+
+The game is added to an autorun disk: [Donkey Kong jr.dsk](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Donkey%20Kong%20jr.dsk).
+
+## How to play
 
