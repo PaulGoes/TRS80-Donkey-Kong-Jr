@@ -37,7 +37,7 @@ Place the [Donkey Kong jr.dsk](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/
 
 Start the sdltrs.exe executable to start the emulator.
 
-![SDLTRS Boot Screen](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20boot%20screen.png)
+![SDLTRS Boot Screen](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20boot%20screen.png | width=100)
 
 Press F7 to open the SDLTRS menu.
 
