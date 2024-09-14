@@ -67,6 +67,10 @@ Press F10 to restart the emulator and the game will be started from the auto sta
 
 ![SDLTRS Game Boot 3](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20game%20boot%203.png)
 
+## Gameplay video on YouTube
 
+A video showing the game can be found on YouTube:
 
-
+<a href="https://www.youtube.com/watch?v=gYQFJBExTCU">
+         <img src="https://img.youtube.com/vi/gYQFJBExTCU/0.jpg" style="width:100%;">
+      </a>
