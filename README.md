@@ -76,5 +76,5 @@ Press F10 to restart the emulator and the game will be started from the auto sta
 A video showing the game can be found on YouTube:
 
 <a href="https://www.youtube.com/watch?v=gYQFJBExTCU">
-         <img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/TRS80DKJR%20YouTube%20thumbnail.png" style="width:70%;">
+         <img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/TRS80DKJR%20YouTube%20thumbnail.png" style="width:40%;">
       </a>
