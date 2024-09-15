@@ -15,11 +15,11 @@ In the photo below you see a single page of the listing as I wrote it. As you ca
 
 In the photo below you see the original graphics design of the game. 
 
+<img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/TRS80DKJR-graphics-design-original.jpg" width="700">
+
 As you can see the screen is build up from 16 lines of 64 characters each. A character is subdivided in 6 blocks: 3 vertical and 2 horizontal. 
 
 This means that the graphical resolution of the screen is (64x2) x (16x3) = 128 x 48.
-
-<img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/TRS80DKJR-graphics-design-original.jpg" width="700">
 
 ## Provided game files
 
