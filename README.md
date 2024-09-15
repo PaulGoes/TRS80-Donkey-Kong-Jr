@@ -37,37 +37,43 @@ Place the [Donkey Kong jr.dsk](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/
 
 Start the sdltrs.exe executable to start the emulator.
 
-![SDLTRS Boot Screen](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20boot%20screen.png)
-
 <img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20boot%20screen.png" width="500">
 
 Press F7 to open the SDLTRS menu.
 
 ![SDLTRS Menu](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Menu.png)
+<img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Menu.png" width="500">
 
 Select the option 'Floppy Disk Management (ALT-D)' and press Enter.
 
 ![SDLTRS Floppy Menu 1](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Floppy%20Menu%201.png)
+<img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Floppy%20Menu%201.png" width="500">
 
 Select the option 'Disk 0:Empty' and press Enter.
 
 ![SDLTRS Select Disk](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Select%20Disk.png)
+<img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Select%20Disk.png" width="500">
 
 Select the 'Donkey Kong jr.dsk' and press Enter.
 
 ![SDLTRS Floppy Menu 2](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Floppy%20Menu%202.png)
+<img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Floppy%20Menu%202.png" width="500">
 
 Press Esc several times to return to the boot screen.
 
 ![SDLTRS Boot Screen](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20boot%20screen.png)
+<img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20boot%20screen.png" width="500">
 
 Press F10 to restart the emulator and the game will be started from the auto start disk.
 
 ![SDLTRS Game Boot 1](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20game%20boot%201.png)
+<img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20game%20boot%201.png" width="500">
 
 ![SDLTRS Game Boot 2](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20game%20boot%202.png)
+<img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20game%20boot%202.png" width="500">
 
 ![SDLTRS Game Boot 3](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20game%20boot%203.png)
+<img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20game%20boot%203.png" width="500">
 
 ## Gameplay video on YouTube
 
