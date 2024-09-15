@@ -39,6 +39,8 @@ Start the sdltrs.exe executable to start the emulator.
 
 ![SDLTRS Boot Screen](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20boot%20screen.png)
 
+<img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20boot%20screen.png" width="500">
+
 Press F7 to open the SDLTRS menu.
 
 ![SDLTRS Menu](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Menu.png)
