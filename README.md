@@ -11,11 +11,11 @@ To preserve this effort from my youth, I have uploaded the game and the source c
 
 In the photo below you see a single page of the listing as I wrote it. As you can see it was entirely written down by pencil because I didn't have printer.
 
-![TRS80DKJR Listing Extract](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/TRS80DKJR-listing-page-original.jpg)
+<img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/TRS80DKJR-listing-page-original.jpg" width="700">
 
 In the photo below you see the original graphics design of the game. As you can see the screen is build up from 16 lines of 64 characters each. A character is subdivided in 6 blocks: 3 vertical and 2 horizontal. This means that the graphical resolution of the screen is (64x2) x (16x3) = 128 x 48.
 
-![TRS80DKJR Graphic Design](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/TRS80DKJR-graphics-design-original.jpg)
+<img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/TRS80DKJR-graphics-design-original.jpg" width="700">
 
 ## Provided game files
 
@@ -41,38 +41,30 @@ Start the sdltrs.exe executable to start the emulator.
 
 Press F7 to open the SDLTRS menu.
 
-![SDLTRS Menu](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Menu.png)
 <img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Menu.png" width="500">
 
 Select the option 'Floppy Disk Management (ALT-D)' and press Enter.
 
-![SDLTRS Floppy Menu 1](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Floppy%20Menu%201.png)
 <img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Floppy%20Menu%201.png" width="500">
 
 Select the option 'Disk 0:Empty' and press Enter.
 
-![SDLTRS Select Disk](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Select%20Disk.png)
 <img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Select%20Disk.png" width="500">
 
 Select the 'Donkey Kong jr.dsk' and press Enter.
 
-![SDLTRS Floppy Menu 2](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Floppy%20Menu%202.png)
 <img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20Floppy%20Menu%202.png" width="500">
 
 Press Esc several times to return to the boot screen.
 
-![SDLTRS Boot Screen](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20boot%20screen.png)
 <img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20boot%20screen.png" width="500">
 
 Press F10 to restart the emulator and the game will be started from the auto start disk.
 
-![SDLTRS Game Boot 1](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20game%20boot%201.png)
 <img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20game%20boot%201.png" width="500">
 
-![SDLTRS Game Boot 2](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20game%20boot%202.png)
 <img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20game%20boot%202.png" width="500">
 
-![SDLTRS Game Boot 3](https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20game%20boot%203.png)
 <img src="https://github.com/PaulGoes/TRS80-Donkey-Kong-Jr/blob/main/Media/SDLTRS%20game%20boot%203.png" width="500">
 
 ## Gameplay video on YouTube
